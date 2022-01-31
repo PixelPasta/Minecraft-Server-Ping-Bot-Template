@@ -1,0 +1,6 @@
+{
+    "token" : "your token",
+    "minecraft_server_ip": "your minecraft server",
+    "discord_server_id": "your discord server id",
+    "prefix": "your desired prefix"
+}
