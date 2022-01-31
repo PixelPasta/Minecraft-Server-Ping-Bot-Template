@@ -53,7 +53,7 @@ Now, you've made your bot, but you need it to be online 24/7. We've got a soluti
 • First, Make an account on <a href="https://railway.app"><u>Railway</u></a>.
 • Then Open the CMD in which your bot's folder is open and type this command: 
 "npm i -g @railway/cli" <br>
-• Then Type the command "railway login" and follow the steps to login.
+• Then Type the command "railway login" and follow the steps to login. <br>
 • Go to <a href="https://railway.app/dashboard"><u>Railway's dashboard</u></a> and click on new project. <br> <img src="./Docs File/new.png"> <br>
 • Click on empty project. <br> <img src="./Docs File/empty.png">
 • Once the project is created, clik on setup on the left side. <br> <img src="./Docs File/setup.png"> <br>
