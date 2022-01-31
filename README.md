@@ -47,7 +47,7 @@ Now Paste this URL in the browser and invite the bot to your server. </li>
 <center> Congrats! You've setup the bot <hr>
 ☁ Hosting <br>
 </center>
-Now, you've made your bot, but you it to be online 24/7. We've got a solution for that! <br>
+Now, you've made your bot, but you need it to be online 24/7. We've got a solution for that! <br>
 <a href="https://railway.app/"><u>Railway.app</u></a> is a hosting service that provides free hosting for discord bots without any extra costs.
 <br>
 • First, Make an account on <a href="https://railway.app"><u>Railway</u></a>.
