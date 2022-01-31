@@ -24,7 +24,7 @@
 <li> Go to <a href="https://discord.com/developers/applications"><u>Discord Developer Portal</u></a> and create a new application  <img src="./Docs File/application.png"> </li>
 <li> Click On Bot <br> <img src="./Docs File/bot.png"> </li>
 <li> Click On Add Bot <br> <img src="./Docs File/Add.png"> </li>
-<li> Click On Copy <br> <img src="./Docs File/Copy.png"> </li>
+<li> Click On Copy <br> <img src="./Docs File/copy.png"> </li>
 <li> Now Go To The Extracted Folder, Then Open config.json in notepad. </li>
 <li> Replace "Your Token" With the bot's token. (The One you just copied) </li>
 <li> Replace "Your Minecraft Server" with the ip address of your minecraft server. (Example - "mc.hypixel.net
