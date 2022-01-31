@@ -20,7 +20,7 @@
 <h1> 📚 Setup - </h1> </center>
 <h2>
 <ol style="margin-top: 0px">  <li> Install <a href="https://nodejs.org/en/" > <u> NodeJS</u> </a> LTM v16.13.0 or above. </li>
-<li> Download <a href=""><u>This</u></a> ZIP file and extract it.
+<li> Download <a href="https://github.com/PixelPasta/Minecraft-Server-Ping-Bot/archive/refs/heads/main.zip"><u>This</u></a> ZIP file and extract it.
 <li> Go to <a href="https://discord.com/developers/applications"><u>Discord Developer Portal</u></a> and create a new application  <img src="./Docs File/application.png"> </li>
 <li> Click On Bot <br> <img src="./Docs File/bot.png"> </li>
 <li> Click On Add Bot <br> <img src="./Docs File/Add.png"> </li>
