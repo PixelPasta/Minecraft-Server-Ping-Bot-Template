@@ -57,8 +57,8 @@ Now, you've made your bot, but you need it to be online 24/7. We've got a soluti
 • Go to <a href="https://railway.app/dashboard"><u>Railway's dashboard</u></a> and click on new project. <br> <img src="./Docs File/new.png"> <br>
 • Click on empty project. <br> <img src="./Docs File/empty.png"> <br>
 • Once the project is created, clik on setup on the left side. <br> <img src="./Docs File/setup.png"> <br>
-• Now Copy the command under the "Connect to this project" heading like this.<br> <br> <img src="./Docs File/link.png">
-• Paste and run the command in CMD.
+• Now Copy the command under the "Connect to this project" heading like this.<br>  <img src="./Docs File/link.png"><br>
+• Paste and run the command in CMD. <br>
 • Once the project is linked, type the command "railway up" and enter. After a while, the upload should be completed and the bot should be online. Your bot is now hosted 24/7.
 <hr> <center>
 ❤ Thank You for using MSBP
