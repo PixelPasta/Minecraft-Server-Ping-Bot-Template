@@ -50,7 +50,7 @@ Now Paste this URL in the browser and invite the bot to your server. </li>
 Now, you've made your bot, but you need it to be online 24/7. We've got a solution for that! <br>
 <a href="https://railway.app/"><u>Railway.app</u></a> is a hosting service that provides free hosting for discord bots without any extra costs.
 <br>
-• First, Make an account on <a href="https://railway.app"><u>Railway</u></a>.
+• First, Make an account on <a href="https://railway.app"><u>Railway</u></a>. <br>
 • Then Open the CMD in which your bot's folder is open and type this command: 
 "npm i -g @railway/cli" <br>
 • Then Type the command "railway login" and follow the steps to login. <br>
